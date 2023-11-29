@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/uamai/static/css/main.24574081.css",
+    "main.js": "/uamai/static/js/main.4d28758c.js",
+    "static/js/787.ec5e9d4c.chunk.js": "/uamai/static/js/787.ec5e9d4c.chunk.js",
+    "static/media/ai.png": "/uamai/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/uamai/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/uamai/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/uamai/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/uamai/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/uamai/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/uamai/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/uamai/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/uamai/index.html",
+    "main.24574081.css.map": "/uamai/static/css/main.24574081.css.map",
+    "main.4d28758c.js.map": "/uamai/static/js/main.4d28758c.js.map",
+    "787.ec5e9d4c.chunk.js.map": "/uamai/static/js/787.ec5e9d4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24574081.css",
+    "static/js/main.4d28758c.js"
+  ]
+}
